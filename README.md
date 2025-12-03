@@ -1,3 +1,5 @@
+![Minha Foto de Perfil](https://raw.githubusercontent.com/itsssamix/itsssamix/refs/heads/main/SPACE.jpg)
+
 Oi, eu sou a Samira!
 
 <!--
