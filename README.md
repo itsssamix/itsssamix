@@ -8,5 +8,6 @@ Tenho 23 anos e sou apaixonada por tecnologia (cresci no boom da internet, époc
 
 Tecnologias que tenho conhecimento: 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
   
