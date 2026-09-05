@@ -1,10 +1,5 @@
 Oi, eu sou a Samira!
 
-Tenho 23 anos e sou apaixonada por tecnologia (cresci no boom da internet, época do famigerado Orkut).
-
-- 🌱 No momento, meus estudos estão sendo aprofundados em análise de dados com Python utilizando as tecnologias Pandas, MatplotLib e Numpy.
-- 📫 Como me contatar: samirafidelesxz@gmail.com
-- ⚡ Fun fact:  Sou apaixonada por filmes e música e adoro fazer resenhas dos filmes e álbuns escutados. Meus filmes favoritos são 🎞️: Cidade de Deus (2002, nacional), Estômago (2007, nacional), Que horas ela volta (2015, nacional), Kill bill (all vol.) | Meus álbuns de música favoritos 🎶: Clube da Esquina (Milton nascimento), Acabou Chorare (Novos Baianos), A tábua de Esmeralda (Jorge ben Jor), Mudei de Ideia (Antonio Carlos e Jocafi), Da Lama Ao Caos (Chico Science e Nação Zumbi).
 
 Tecnologias que tenho conhecimento: 
 
